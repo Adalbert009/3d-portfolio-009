@@ -1,0 +1,1 @@
+My portfolio website is a dynamic showcase of my work, highlighting my web development expertise. It’s structured for easy navigation with sections dedicated to specific projects that demonstrate the frameworks and tools I use. The site balances functionality with creativity, giving viewers a clear sense of my technical skills.
